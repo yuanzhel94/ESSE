@@ -1,6 +1,6 @@
 # ESSE — Effective Sample Size Estimation
 
-**ESSE (effective sample size estimation)** presents an analytical approach that infers the statistical significance of spatial association tests between spatial maps by estimating the effective sample size of the data.
+**ESSE (effective sample size estimation)** presents an analytical approach that infers the statistical significance of spatial association tests between spatial maps by estimating the **effective sample size** of the data.
 
 ---
 
