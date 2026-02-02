@@ -11,7 +11,7 @@ build:
     python: "3.13"
   jobs:
     pre_build:
-      - pip install -e .
+      - pip install -e pyesse
       - sphinx-apidoc -f -M -o docs/source/api pyesse/esse
 
 sphinx:
