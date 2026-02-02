@@ -96,4 +96,4 @@ pef, rX, nef, run_status, n_parc, p_naive, fc_para1, fc_para2 = esse.effective_s
 ## Documentation
 
 For full documentation and additional examples, see
-[ESSE documentation](https://esse-effective-sample-size-estimation.readthedocs.io/en/latest/api/esse.html#module-esse.esse)
+[ESSE documentation](https://esse-effective-sample-size-estimation.readthedocs.io/en/latest/index.html)
