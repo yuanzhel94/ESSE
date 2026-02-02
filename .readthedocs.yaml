@@ -12,7 +12,7 @@ build:
   jobs:
     pre_build:
       - pip install -e pyesse
-      - sphinx-apidoc -f -M -o docs/source/api pyesse/esse
+      - sphinx-apidoc -o docs/source/api pyesse/esse -f --no-toc
 
 sphinx:
    configuration: docs/source/conf.py
