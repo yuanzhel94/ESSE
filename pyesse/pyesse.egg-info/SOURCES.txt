@@ -1,0 +1,9 @@
+README.md
+setup.py
+esse/__init__.py
+esse/esse.py
+pyesse.egg-info/PKG-INFO
+pyesse.egg-info/SOURCES.txt
+pyesse.egg-info/dependency_links.txt
+pyesse.egg-info/requires.txt
+pyesse.egg-info/top_level.txt
