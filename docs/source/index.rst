@@ -63,11 +63,11 @@ respectively. :math:`C^{S}` denotes the stationary covariance function.
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
    
    pages/install
    pages/start
    pages/example
-   api/esse
+   api/docwrap
    pages/references
